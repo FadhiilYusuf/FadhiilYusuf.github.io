@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="row">
-      <h1>Vuejs Vue CLI File Upload with Axios and PHP</h1>
+      <h1>Upload Image di Vue.JS</h1>
       <div
         class="imagePreviewWrapper"
         :style="{ 'background-image': `url(${previewImage})` }"
